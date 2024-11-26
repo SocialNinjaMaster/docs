@@ -10,7 +10,7 @@ relatedContent:
   other: Related content
 
 ## callout titles:
-
+git fetch origin branch:mytargetbranch --depth 1
 experimental: Experimental
 restricted: Restricted
 important: Important
